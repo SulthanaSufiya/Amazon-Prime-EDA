@@ -20,7 +20,7 @@ Two datasets were used:
 
 ## 📌 Key Objectives
 
-- Understand content diversity by type, genre, language, and country.
+- Understand content diversity by type, genre, and country.
 - Identify trends in ratings (IMDb, TMDB) and age certification.
 - Evaluate the role of actors, directors, and production regions.
 - Uncover release patterns and runtime distributions.
